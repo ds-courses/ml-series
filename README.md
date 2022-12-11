@@ -6,4 +6,6 @@ You can access any of the lecture Jupyter notebooks by clicking on the associate
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-courses/ml-series/HEAD?filepath=ML_series.ipynb)
 
+## I2ADS Machine Learning (with solutions)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-courses/ml-series/HEAD?filepath=ML_series_solutions.ipynb)
 
